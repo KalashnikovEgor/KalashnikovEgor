@@ -1,18 +1,26 @@
-### Hi there 👋
+# Hello there 👋
 
-<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAACXBIWXMAAAsTAAALEwEAmpwYAAADN0lEQVR4nK2V22tUVxTGv7XPbc45udTJRTNxTmZMrGliRhMxTtpAiIU+WB1bbZBAmNHQNDqJIeZBkoASW0Sh1QehUFT0QcS/QRD6VH3Tl6KoIQ+lFRUp1YraTLJX2ccZSILtTOJ8sJ/2Or9vXfasAZanOIB7AJ4C6EORtZWIXlQEy+bqvFopiP4BYBcLvpmI/qoIls+PjY1xLBZjQTQPoLQY8GZB9OyD8lI5OjrKHR0dDIBty/iuGPANguhJeakrR0ZGuLu7+y08oJ8vBnydEPSoxHXk8PAwT01NcThU5RsQ4RcAde8D94Sg31wnINPptA8/++0hnr60ns8drGTHogwR/gTQtRJ4SAiasQOWHBwc5L6+Pq6uXOVn7lXp8vKRKr55ppbrqvU3AGYBfL0c+GpNiIeWZcqBgQHu6elhIYgtU/wK4Kiu4Y4yOrijjO/9FOaPP7KeA5DZ30deVWhC3DUNQ/b393Nvby9rmmDTELcAONkYQ9PwozLpbArwtaPVfmUA0vnghhB0y9B1mUqlOJlMsq5rbOri9rveesBAytRpTsEtg1SrIvkMBlWwaonK3jR11jVxF8Cq//km2hw2R20ba/PBobIP1azh8fFxLit1FXwaQPWCkJ0AHmXbke+ouMQiA00Tr+LxuF9BNmjrwnvTMB57njf31d49nO9EIxEuKSl5ubSC2c7OTk4kEjmD2oX3rus+XxeNciqZzHvq6+s5GAzKpRXMNDY28tDQkP8siXBx4X1DQ8MBx3FeFdIix3HeJBI7f1g6hrO6pvnLrKur6+06AL7PM7pPABwHsAUFaK0Q9CJUs1qqQbe3t+dMTvxH/AECJBFYENRz3ViIyWdElPHCtTwxMcFtbW2+iRAYXxLXTwTZHbP559OhXGsOo0B9QURz0YjHk5OT3NLS4gM08itpUusiB79/Xq2KQIbgVxDDMrSPCPMN9RGpTFpbWxcNcXfc5YcXw7w9ZmcAzK/0vzmpltiH66Py1LEhvn7S4wsjVXzjZA0/uBDmTzfZaouqpziwEnhO+wmYtS16vWub83f687LMlx3uS8fyd4/K/pv3gefUAuAKgN+zu/8PAFcBbCqU8C86gD/bPIYtNgAAAABJRU5ErkJggg==">
+<div>
+  <a href="https://www.linkedin.com/in/egor-kalashnikov-0a18b5291/" target="_blank" rel="nofollow"><img align="left" alt="Linkdein" width="30px" src="https://img.icons8.com/doodle/48/000000/linkedin--v2.png" /></a>
+  <a href="mailto:keformtg@gmail.com" target="_blank" rel="nofollow"><img align="left" alt="Gmail" width="30px" src="https://img.icons8.com/doodle/48/null/gmail.png"/></a>
+  <a href="https://t.me/kalashnikov_egor" target="_blank" rel="nofollow"><img align="left" alt="Telegram" width="30px" src="https://img.icons8.com/doodle/48/null/paper-plane--v1.png"/></a>
+  <a href="https://leetcode.com/kalashnikov_egor/" target="_blank" rel="nofollow"><img align="left" alt="Leetcode" width="30px" src="https://cdn.iconscout.com/icon/free/png-256/free-leetcode-3629476-3031539.png"/></a>
+</div>
+<br />
 
-<!--
-**KalashnikovEgor/KalashnikovEgor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me 👾
 
-Here are some ideas to get you started:
+Hi! I am a backend developer, working in a TypeType font company as a person who optimise everything possible, mostly using Python and PostgreSQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+In a free time I enjoy to solve algorithmic problems on LeetCode, trying to visit it every day, and improve my skills in system design. I've been interested in the Go lately and I am sure I can use it for work in the future
+
+## My stack :hammer:
+**Languages**: Python, Go, SQL
+
+**Frameworks**: Flask, Django, Asyncio, htmx
+
+**Databases**: PostgreSQL, MariaDB, Redis
+
+**Architecture and Design**: REST API, Microservices
+
+**Developer Tools**: Git, Docker, GitLab CI/CD 
